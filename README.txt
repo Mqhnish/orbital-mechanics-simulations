@@ -24,8 +24,6 @@ Key Idea:
 
 > Small changes in velocity accumulate over multiple orbits and can produce dramatically different trajectories.
 
-Based on: :contentReference[oaicite:0]{index=0}
-
 ---
 
 ### 2. Earth Delta-V Comparison
@@ -44,7 +42,6 @@ Key Idea:
 
 > Even tiny differences in applied delta-v lead to increasing separation over time.
 
-Based on: :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -64,8 +61,6 @@ Features:
 - Earth-centered propagation
 - High-eccentricity trajectory visualization
 
-Based on: :contentReference[oaicite:2]{index=2}
-
 ---
 
 ### 4. Hohmann Transfer Visualization
@@ -83,8 +78,6 @@ Features:
 Key Idea:
 
 > Hohmann transfers provide one of the most fuel-efficient methods for transferring between coplanar circular orbits.
-
-Based on: :contentReference[oaicite:3]{index=3}
 
 ---
 
